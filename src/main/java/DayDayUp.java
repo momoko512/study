@@ -6,5 +6,6 @@ public class DayDayUp {
         System.out.println("syudyddddd");
         System.out.println();
         System.out.println("");
+        System.out.println("1");
     }
 }
